@@ -1,1 +1,1 @@
-This website is in nextjs
+This website is a one page website build in nextjs
