@@ -12,6 +12,7 @@ declare global {
 }
 
 export default function Home() {
+   const color = '#AFAAF9';
   useEffect(() => {
     // Sticky Navbar - wait for jQuery to be available
     const initStickyNav = () => {
