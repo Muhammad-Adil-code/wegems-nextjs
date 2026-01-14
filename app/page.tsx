@@ -634,14 +634,14 @@ export default function Home() {
               <a href="#why-us" className="footer-link">Why us</a>
             </div>
             <div className="footer-links">
-              <a href="https://dribbble.com/aminulhchy" target="_blank" rel="noopener noreferrer" className="footer-link">Dribbble</a>
-              <a href="https://webflow.com/@aminulhchy" target="_blank" rel="noopener noreferrer" className="footer-link">Webflow</a>
-              <a href="https://www.linkedin.com/company/wegems/" target="_blank" rel="noopener noreferrer" className="footer-link">LinkedIn</a>
-              <a href="https://www.instagram.com/wegemsagency" className="footer-link">Instagram</a>
+              <a href="https://dribbble.com/" target="_blank" rel="noopener noreferrer" className="footer-link">Dribbble</a>
+              <a href="https://webflow.com/" target="_blank" rel="noopener noreferrer" className="footer-link">Webflow</a>
+              <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer" className="footer-link">LinkedIn</a>
+              <a href="https://www.instagram.com/" className="footer-link">Instagram</a>
             </div>
           </div>
           <div className="copyright-text">
-            © <span id="year"></span> Wegems Agency. All Rights Reserved.
+            © <span id="year"></span> Agency. All Rights Reserved.
           </div>
         </div>
       </section>
